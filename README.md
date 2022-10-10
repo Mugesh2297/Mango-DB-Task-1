@@ -2,7 +2,9 @@
 The  Files Consists of Answers of the Questions in Task
 
 db.createCollection("productDetails");
+
 db.productDetails.find();
+
 1. Find all the information about each products
 
  db.productDetails.find();
